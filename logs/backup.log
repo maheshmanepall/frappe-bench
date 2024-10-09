@@ -1,0 +1,277 @@
+Please specify --site sitename
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240802_120003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-02 12:00:09.346823
+Config  : ./dcode.com/private/backups/20240802_120003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240802_120003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240802_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-02 18:00:08.279964
+Config  : ./dcode.com/private/backups/20240802_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240802_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240805_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-05 18:00:13.917285
+Config  : ./dcode.com/private/backups/20240805_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240805_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240806_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-06 18:00:13.283794
+Config  : ./dcode.com/private/backups/20240806_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240806_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240808_120007-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-08 12:00:16.552294
+Config  : ./dcode.com/private/backups/20240808_120007-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240808_120007-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240808_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-08 18:00:11.292299
+Config  : ./dcode.com/private/backups/20240808_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240808_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240809_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-09 18:00:14.971334
+Config  : ./dcode.com/private/backups/20240809_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240809_180005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240810_120005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-10 12:00:14.989646
+Config  : ./dcode.com/private/backups/20240810_120005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240810_120005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240812_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-12 18:00:08.698959
+Config  : ./dcode.com/private/backups/20240812_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240812_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240813_120005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-13 12:00:12.585928
+Config  : ./dcode.com/private/backups/20240813_120005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240813_120005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240814_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-14 18:00:13.152659
+Config  : ./dcode.com/private/backups/20240814_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240814_180005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240827_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-27 18:00:14.573836
+Config  : ./dcode.com/private/backups/20240827_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240827_180005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240828_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-28 12:00:18.706790
+Config  : ./dcode.com/private/backups/20240828_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240828_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240828_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-28 18:00:10.976734
+Config  : ./dcode.com/private/backups/20240828_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240828_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240829_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-29 12:00:11.237649
+Config  : ./dcode.com/private/backups/20240829_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240829_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240830_120003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-08-30 12:00:12.094487
+Config  : ./dcode.com/private/backups/20240830_120003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240830_120003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240902_180006-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-02 18:00:21.404617
+Config  : ./dcode.com/private/backups/20240902_180006-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240902_180006-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240903_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-03 12:00:16.654882
+Config  : ./dcode.com/private/backups/20240903_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240903_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240904_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-04 12:00:14.661899
+Config  : ./dcode.com/private/backups/20240904_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240904_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240906_120006-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-06 12:00:20.215252
+Config  : ./dcode.com/private/backups/20240906_120006-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240906_120006-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240909_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-09 12:00:17.324253
+Config  : ./dcode.com/private/backups/20240909_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240909_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240909_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-09 18:00:17.439557
+Config  : ./dcode.com/private/backups/20240909_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240909_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240910_120006-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-10 12:00:21.636136
+Config  : ./dcode.com/private/backups/20240910_120006-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240910_120006-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240911_120008-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-11 12:00:24.640866
+Config  : ./dcode.com/private/backups/20240911_120008-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240911_120008-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240911_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-11 18:00:10.235355
+Config  : ./dcode.com/private/backups/20240911_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240911_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240912_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-12 12:00:12.267785
+Config  : ./dcode.com/private/backups/20240912_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240912_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240912_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-12 18:00:12.882975
+Config  : ./dcode.com/private/backups/20240912_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240912_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240913_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-13 12:00:16.959553
+Config  : ./dcode.com/private/backups/20240913_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240913_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240913_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-13 18:00:18.195828
+Config  : ./dcode.com/private/backups/20240913_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240913_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240916_120005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-16 12:00:16.336763
+Config  : ./dcode.com/private/backups/20240916_120005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240916_120005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240916_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-16 18:00:14.155360
+Config  : ./dcode.com/private/backups/20240916_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240916_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240917_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-17 18:00:18.262931
+Config  : ./dcode.com/private/backups/20240917_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240917_180005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240918_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-18 12:00:12.028491
+Config  : ./dcode.com/private/backups/20240918_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240918_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240918_180004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-18 18:00:18.108458
+Config  : ./dcode.com/private/backups/20240918_180004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240918_180004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240919_120003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-19 12:00:12.833823
+Config  : ./dcode.com/private/backups/20240919_120003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240919_120003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240919_180006-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-19 18:00:21.393690
+Config  : ./dcode.com/private/backups/20240919_180006-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240919_180006-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240920_120006-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-20 12:00:20.752806
+Config  : ./dcode.com/private/backups/20240920_120006-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240920_120006-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240920_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-20 18:00:24.112106
+Config  : ./dcode.com/private/backups/20240920_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240920_180005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240923_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-23 18:00:11.552792
+Config  : ./dcode.com/private/backups/20240923_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240923_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240924_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-24 12:00:14.875373
+Config  : ./dcode.com/private/backups/20240924_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240924_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20240926_120003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-09-26 12:00:10.648878
+Config  : ./dcode.com/private/backups/20240926_120003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20240926_120003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20241001_180003-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-10-01 18:00:13.418566
+Config  : ./dcode.com/private/backups/20241001_180003-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20241001_180003-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20241003_120005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-10-03 12:00:22.021868
+Config  : ./dcode.com/private/backups/20241003_120005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20241003_120005-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20241008_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-10-08 12:00:13.146770
+Config  : ./dcode.com/private/backups/20241008_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20241008_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20241009_120004-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-10-09 12:00:14.647876
+Config  : ./dcode.com/private/backups/20241009_120004-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20241009_120004-dcode_com-database.sql.gz         760.9KiB
+Backup for Site dcode.com has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_c8799df9720185cb --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _c8799df9720185cb | /usr/bin/gzip >> ./dcode.com/private/backups/20241009_180005-dcode_com-database.sql.gz
+
+Backup Summary for dcode.com at 2024-10-09 18:00:20.798283
+Config  : ./dcode.com/private/backups/20241009_180005-dcode_com-site_config_backup.json 94.0B
+Database: ./dcode.com/private/backups/20241009_180005-dcode_com-database.sql.gz         765.6KiB
+Backup for Site dcode.com has been successfully completed
